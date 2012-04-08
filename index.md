@@ -1,8 +1,9 @@
 ---
 layout: post
 category: easy
-tags: [hello]
+tagline: You are infected!
 ---
+{% include JB/setup %}
 
     fn main() {
     	io::println("ok computer");
