@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 category: easy
 tagline: You are infected!
 ---
