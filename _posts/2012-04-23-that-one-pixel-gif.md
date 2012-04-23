@@ -11,7 +11,7 @@ A green pixel. That's all.
 
     import io::writer_util;
     
-    #[doc = "target of the code is to write some content into the file go.gif"]
+    #[doc = "target of the code is to write a pixel image"]
     fn main() {
     	let w = io::file_writer("green_pixel.gif", [io::create]);
     
